@@ -1,0 +1,9 @@
+address,city,price,beds,baths,sqft,year_built,property_type
+123 Main St,Sandy,425000,3,2.0,1850,2015,Single Family
+456 Oak Ave,Draper,475000,4,3.0,2200,2018,Single Family
+789 Pine Rd,Sandy,395000,3,2.0,1650,2012,Single Family
+321 Elm St,Provo,445000,4,2.5,2100,2016,Single Family
+654 Maple Dr,Draper,520000,5,3.5,2800,2020,Single Family
+987 Cedar Ln,Sandy,410000,3,2.0,1750,2014,Single Family
+147 Birch Way,Provo,385000,3,2.0,1600,2010,Single Family
+258 Aspen Ct,Sandy,435000,3,2.5,1900,2017,Single Family
